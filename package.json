@@ -1,0 +1,19 @@
+{
+  "name": "anagram-discussion",
+  "version": "1.0.0",
+  "description": "A sample anagram problem with use-cases to help us navigate through technical discussions.",
+  "main": "anagram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarstays/anagram-discussion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarstays/anagram-discussion/issues"
+  },
+  "homepage": "https://github.com/amarstays/anagram-discussion#readme"
+}
