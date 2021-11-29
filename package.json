@@ -12,6 +12,9 @@
   },
   "author": "Amresh Anand",
   "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
   "bugs": {
     "url": "https://github.com/amarstays/anagram-discussion/issues"
   },
