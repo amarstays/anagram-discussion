@@ -4,7 +4,8 @@
   "description": "A sample anagram problem with use-cases to help us navigate through technical discussions.",
   "main": "anagram.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node app/anagram.js"
   },
   "repository": {
     "type": "git",

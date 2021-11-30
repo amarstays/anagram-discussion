@@ -6,7 +6,7 @@ Scenario Outline-2: Understand failure cases better
 */
 
 //
-function is_anagram(subj, cand) {
+function is_an_anagram(subj, cand) {
   //Sanitize: remove any spaces and convert it to same case for sorting and comparisions
 
   subject = subj.replace(/\s*/g, "").toLowerCase();
@@ -61,6 +61,6 @@ function is_nonPhrase(word) {
   if (/[\W0-9]/g.test(word.trim())) return true;
 }
 
-//is_anagram("Hello", " Hel lo "); //uncomment for a quick test
+// is_an_anagram("Hello", " Hel lo "); //uncomment for a quick test
 
-module.exports = is_anagram;
+module.exports = is_an_anagram;
